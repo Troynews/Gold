@@ -1,0 +1,17 @@
+{
+	"description": "A WePY project",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"nodeModules": false,
+		"uglifyFileName": false
+	},
+	"compileType": "miniprogram",
+	"appid": "touristappid",
+	"projectname": "goldapp",
+	"miniprogramRoot": "dist/",
+	"condition": {}
+}
